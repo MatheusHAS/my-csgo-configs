@@ -11,7 +11,7 @@ My config files for Counter-Strike Global offensive
 # Apply configs on game
 
 ```
-    1 - Access your game console (')
+    1 - Access console in game (')
     2 - enter:
         exec competitive.cfg
         exec training.cfg
